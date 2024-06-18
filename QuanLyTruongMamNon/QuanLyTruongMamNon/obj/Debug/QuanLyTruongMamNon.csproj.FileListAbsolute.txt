@@ -1,0 +1,158 @@
+H:\My Drive\[3] School\CNPM - LT\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\QuanLyTruongMamNon.exe.config
+H:\My Drive\[3] School\CNPM - LT\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\QuanLyTruongMamNon.exe
+H:\My Drive\[3] School\CNPM - LT\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\QuanLyTruongMamNon.pdb
+H:\My Drive\[3] School\CNPM - LT\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.csproj.AssemblyReference.cache
+H:\My Drive\[3] School\CNPM - LT\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.Properties.Resources.resources
+H:\My Drive\[3] School\CNPM - LT\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.csproj.GenerateResource.cache
+H:\My Drive\[3] School\CNPM - LT\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.csproj.CoreCompileInputs.cache
+H:\My Drive\[3] School\CNPM - LT\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.exe
+H:\My Drive\[3] School\CNPM - LT\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.pdb
+H:\My Drive\[3] School\CNPM - LT\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.DangNhap.resources
+H:\My Drive\[3] School\CNPM - LT\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.TrangChu.resources
+H:\My Drive\[3] School\CNPM - LT\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiNhanVien.resources
+H:\My Drive\[3] School\CNPM - LT\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.ThemNhanVien.resources
+H:\My Drive\[3] School\CNPM - LT\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiHocSinh.resources
+H:\My Drive\[3] School\CNPM - LT\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.ThemHocSinh.resources
+H:\My Drive\[3] School\CNPM - LT\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.TheHocSinh.resources
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.csproj.AssemblyReference.cache
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiHocSinh.resources
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.TheHocSinh.resources
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.DangNhap.resources
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.HoSoHocSinh.resources
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.HoSoNHanVien.resources
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiNhanVien.resources
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.TrangChu.resources
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.csproj.GenerateResource.cache
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.Properties.Resources.resources
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.csproj.CoreCompileInputs.cache
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\QuanLyTruongMamNon.exe.config
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\QuanLyTruongMamNon.exe
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\QuanLyTruongMamNon.pdb
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\zxing.dll
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\zxing.presentation.dll
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\zxing.xml
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\zxing.presentation.xml
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTr.F540A55E.Up2Date
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.exe
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.pdb
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.DoiMatKhau.resources
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiThanhTich.resources
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuenMatKhau.resources
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiThucDon.resources
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiMonAn.resources
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiDiemDanh.resources
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiThongBao.resources
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiNganSach.resources
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.ThuHocPhi.resources
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.ThuDichVu.resources
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.ChiNganSach.resources
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.ThongKeGiaoDich.resources
+D:\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiGiaoVu.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\QuanLyTruongMamNon.exe
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\QuanLyTruongMamNon.pdb
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\QuanLyTruongMamNon.exe.config
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\zxing.dll
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\zxing.presentation.dll
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\zxing.xml
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\zxing.presentation.xml
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.csproj.AssemblyReference.cache
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.ChiNganSach.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiGiaoVu.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.ThongKeGiaoDich.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.ThuHocPhi.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.ThuDichVu.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiThongBao.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiThanhTich.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiNganSach.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuenMatKhau.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.DoiMatKhau.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiHocSinh.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiThucDon.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiMonAn.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiDiemDanh.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.TheHocSinh.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.DangNhap.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.HoSoHocSinh.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.HoSoNHanVien.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiNhanVien.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.TrangChu.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.Properties.Resources.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.csproj.GenerateResource.cache
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.csproj.CoreCompileInputs.cache
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTr.F540A55E.Up2Date
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.exe
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.pdb
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.XemThongBao.resources
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.XemDanhSachLop.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\QuanLyTruongMamNon.exe.config
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\QuanLyTruongMamNon.exe
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\QuanLyTruongMamNon.pdb
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\zxing.dll
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\zxing.presentation.dll
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\zxing.xml
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\zxing.presentation.xml
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.csproj.AssemblyReference.cache
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.ChiNganSach.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiGiaoVu.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.ThongKeGiaoDich.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.ThuHocPhi.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.ThuDichVu.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiThongBao.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiThanhTich.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiNganSach.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuenMatKhau.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.DoiMatKhau.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiHocSinh.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiThucDon.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiMonAn.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiDiemDanh.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.TheHocSinh.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.DangNhap.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.HoSoHocSinh.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.HoSoNHanVien.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiNhanVien.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.TrangChu.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.Properties.Resources.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.XemDanhSachLop.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.XemThongBao.resources
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.csproj.GenerateResource.cache
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.csproj.CoreCompileInputs.cache
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTr.F540A55E.Up2Date
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.exe
+D:\QLTMN3\QLTMN3\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.pdb
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\QuanLyTruongMamNon.exe.config
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\QuanLyTruongMamNon.exe
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\QuanLyTruongMamNon.pdb
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\zxing.dll
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\zxing.presentation.dll
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\zxing.xml
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\bin\Debug\zxing.presentation.xml
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.csproj.AssemblyReference.cache
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.ChiNganSach.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiGiaoVu.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.ThongKeGiaoDich.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.ThuHocPhi.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.ThuDichVu.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiThongBao.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiThanhTich.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiNganSach.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuenMatKhau.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.DoiMatKhau.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiHocSinh.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiThucDon.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiMonAn.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiDiemDanh.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.TheHocSinh.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.DangNhap.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.HoSoHocSinh.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.HoSoNHanVien.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.QuanLiNhanVien.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.TrangChu.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.Properties.Resources.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.XemDanhSachLop.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.XemThongBao.resources
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.csproj.GenerateResource.cache
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.csproj.CoreCompileInputs.cache
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTr.F540A55E.Up2Date
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.exe
+D:\Hoctap\CNPM\Code\QuanLyTruongMamNon\QuanLyTruongMamNon\obj\Debug\QuanLyTruongMamNon.pdb

@@ -1,0 +1,12 @@
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\DTO\obj\Debug\net8.0\DTO.sourcelink.json
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\DTO\obj\Debug\net8.0\ref\DTO.dll

@@ -1,0 +1,6 @@
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\nhath\OneDrive\Desktop\QLTMN3\QuanLyTruongMamNon\DAL\obj\Debug\net8.0\DAL.sourcelink.json
